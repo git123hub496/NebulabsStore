@@ -1,0 +1,26 @@
+[
+    {
+        "app_id": "com.nebulabs.nebulalauncher",
+        "app_name": "Nebula Launcher",
+        "version": 26,
+        "description": "Experience ultimate speed and minimalist elegance with Nebula Launcher.\n\nNebula Launcher is built from the ground up for those who value simplicity, lightning-fast performance, and absolute privacy. By stripping away heavy background processes and forced tracking, Nebula delivers a beautiful, clutter-free home screen experience that keeps your phone running smoothly and saves your battery.\n\nPurely Minimal. Completely AI-Free.\nWe believe your phone should serve you, not track you. Nebula Launcher includes absolutely zero AI predictive engines, zero data tracking, and zero background analytics. 100% of your data stays completely local on your device.\n\nKey Features:\n\nUltra-Lightweight Performance: A tiny installation footprint and optimized code mean instant response times and zero phone bloat.\n\nBeautiful Gradient Themes: Enjoy a stunning, modern look out of the box with fluid purple-to-teal design motifs.\n\nSmart UI Contrast: App labels and interface text automatically adjust contrast to stay perfectly readable against your wallpaper.\n\nOptimized App Drawer: Access your full app library instantly via a fast, fluid vertical scrolling grid with an intuitive top search bar.\n\nCurated Customization: Toggle dark mode and select your favorite accent colors to personalize your setup without adding unnecessary system weight.\n\nRecent Apps Dock: A dedicated, dynamically updating row keeps your top 5 most frequent apps exactly where you need them.\n\nDitch the bloated, cluttered launchers that track your habits. Download Nebula Launcher today for a clean, secure, and blazing-fast Android experience.",
+        "icon_url": "https://githubusercontent.com/Nebula%20Launcher/icon.png",
+        "download_url": "https://githubusercontent.com/Nebula%20Launcher/26.apk"
+    },
+    {
+        "app_id": "com.nebulabs.prismlauncher",
+        "app_name": "Prism Launcher",
+        "version": 24,
+        "description": "Prism Launcher By Nebulabs Mobile.",
+        "icon_url": "https://githubusercontent.com/Prism%20Launcher/icon.png",
+        "download_url": "https://githubusercontent.com/Prism%20Launcher/24.apk"
+    },
+    {
+        "app_id": "com.nebulabs.inkdeck",
+        "app_name": "Inkdeck",
+        "version": 3,
+        "description": "Study without cramming. Learn every time you unlock your phone.\n\nInkDeck turns your physical study materials into smart, interactive flashcards delivered straight to your home screen. Stop spending hours manually typing out decks or trying to squeeze in long, boring study sessions. Just snap a photo of your handwritten notes, study guides, or worksheets, and let InkDeck do the heavy lifting.\n\n\ud83d\udcf8 SNAP TO DECK\nInstant OCR Extraction: Take a photo of your notes or textbooks, and InkDeck automatically parses terms, questions, and definitions into structured flashcard decks.\n\nDiagram & Print Friendly: Works with both printed worksheets and handwritten study sheets.\n\n\ud83d\udcf1 PASSIVE MICRO-LEARNING\nInteractive Home Screen Widgets: Study directly from your home screen without even launching the app.\n\nTap to Reveal & Rate: Flip cards in-place with a single tap, then grade your retention with Got It or Review Again.\n\n\ud83e\udde0 SMART SPACED REPETITION\nBuilt for Maximum Retention: Cards you find difficult cycle back onto your widget more frequently, while mastered cards scale out naturally over days and weeks.\n\nZero Friction: Turn tiny pockets of downtime throughout your day\u2014checking notifications or unlocking your phone\u2014into active learning moments.\n\n\ud83c\udfa8 CLEAN & DISTRACTION-FREE\nBuilt with a high-contrast dark theme and sleek electric purple accents designed for maximum readability on AMOLED displays.\n\nNo cluttered social feeds or unnecessary bloat\u2014just pure, focused studying.\n\nDownload InkDeck today and start mastering your decks, one unlock at a time.",
+        "icon_url": "https://githubusercontent.com/Inkdeck/icon.png",
+        "download_url": "https://githubusercontent.com/Inkdeck/3.apk"
+    }
+]
