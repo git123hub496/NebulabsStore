@@ -8,6 +8,11 @@ on:
 jobs:
   build-catalog:
     runs-on: ubuntu-latest
+    
+    # ADD THESE TWO LINES FOR WRITE PERMISSIONS:
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
@@ -25,10 +30,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Stage the new dist folder and its contents
           git add dist/
           
-          # Only commit if there are actual structural changes
           if ! git diff --cached --quiet; then
             git commit -m "Automated update: Spawned catalog distribution folders"
             git push
